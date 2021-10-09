@@ -1,0 +1,33 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "devIntro": "Aymun Tariq",
+  "devDesc": "| Engineer | Programmer | Python Developer | Bibliophile | Tech Geek | Design Thinker ",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/AymunTariq",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/lily.karen.10",
+      "style": "socialicons"
+    },
+    
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/aymun-t-517772131/",
+      "style": "socialicons"
+    }
+  ],
+
+  "aboutDev": "A final year Computer Engineer from NUST CEME, Pakistan with a great passion for coding, design problems and to teach machines think. I’m currently the President of student body at Emerging Technologies Research Lab(ETL), Vice President COMPPEC,20 and a former Intern at RiseTech.",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "AymunTariq",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc"
+}
